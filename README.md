@@ -17,3 +17,6 @@ This is a C++ code that generate Header file used in "LDPC_QC_v5_generic_1_ILS" 
 
 ### 5G_matrix
 Contains some 5G LDPC matrix
+
+
+Note : The sources codes were designed using Xilinx Vivado HLS 2019 version. In most recent version of Vivado HLS (VitisHLS) SystemC is no longer supported =(
